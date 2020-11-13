@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0121065B255E864E002A8D79 /* PagesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0121065A255E864E002A8D79 /* PagesVC.swift */; };
+		0121065E255E8AD9002A8D79 /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0121065D255E8AD9002A8D79 /* SecondVC.swift */; };
 		01921587255D52F000FE251F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01921586255D52F000FE251F /* AppDelegate.swift */; };
 		01921589255D52F000FE251F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01921588255D52F000FE251F /* SceneDelegate.swift */; };
 		0192158B255D52F000FE251F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0192158A255D52F000FE251F /* ViewController.swift */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0121065A255E864E002A8D79 /* PagesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PagesVC.swift; sourceTree = "<group>"; };
+		0121065D255E8AD9002A8D79 /* SecondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
 		01921583255D52F000FE251F /* SwipeViewSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwipeViewSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01921586255D52F000FE251F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		01921588255D52F000FE251F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +70,8 @@
 				01921591255D52F100FE251F /* LaunchScreen.storyboard */,
 				01921594255D52F100FE251F /* Info.plist */,
 				0192159C255D53D500FE251F /* SwipeCVCell.swift */,
+				0121065A255E864E002A8D79 /* PagesVC.swift */,
+				0121065D255E8AD9002A8D79 /* SecondVC.swift */,
 			);
 			path = SwipeViewSample;
 			sourceTree = "<group>";
@@ -143,6 +149,8 @@
 				0192158B255D52F000FE251F /* ViewController.swift in Sources */,
 				0192159D255D53D500FE251F /* SwipeCVCell.swift in Sources */,
 				01921587255D52F000FE251F /* AppDelegate.swift in Sources */,
+				0121065B255E864E002A8D79 /* PagesVC.swift in Sources */,
+				0121065E255E8AD9002A8D79 /* SecondVC.swift in Sources */,
 				01921589255D52F000FE251F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
